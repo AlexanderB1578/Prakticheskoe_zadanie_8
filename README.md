@@ -1,3 +1,3 @@
 # Prakticheskoe zadanie №8
 
-! [PZ_8.png](фото)
+![PZ_8.png](фото)
