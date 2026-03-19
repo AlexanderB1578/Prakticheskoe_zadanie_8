@@ -1,1 +1,0 @@
-# Prakticheskoe_zadanie_8
